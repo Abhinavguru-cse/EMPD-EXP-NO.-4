@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.  4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -30,9 +30,8 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
-
 ### Output:
+![image](https://github.com/25014905/EMPD-EXP-NO.-4/blob/main/WhatsApp%20Image%202026-03-15%20at%207.25.17%20PM.jpeg?raw=true)
 
 
 ### Name:
