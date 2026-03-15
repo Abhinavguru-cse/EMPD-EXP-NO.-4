@@ -32,10 +32,11 @@
 
 ### Output:
 
+![image](https://github.com/Abhinavguru-cse/EMPD-EXP-NO.-4/blob/main/WhatsApp%20Image%202026-03-15%20at%209.39.19%20PM.jpeg?raw=true)
 
 
-### Name:
-### Register Number: 
+### Name:ABHINAV GURU R
+### Register Number: 212225040009
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
